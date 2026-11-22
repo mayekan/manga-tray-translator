@@ -1,0 +1,6 @@
+PyQt5
+easyocr
+pillow
+numpy
+deep-translator
+keyboard
